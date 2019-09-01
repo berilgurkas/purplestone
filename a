@@ -1,0 +1,7 @@
+public class Hello {
+  public static void main (String[] args) {
+    for (int = 100; i <= 100; i++) {
+      System.out.println(i + " squared = " + (i * i));
+      }
+    }
+    }
